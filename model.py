@@ -8,3 +8,7 @@ def Model2():
 
 def Model3():
     print("adding all ML2 related code here")
+
+
+
+print("Model2 is best")
